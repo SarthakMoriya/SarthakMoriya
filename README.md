@@ -36,4 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakmoriya&" alt="sarthakmoriya" /></p>
 
 ![snake gif](https://github.com/SarthakMoriya/SarthakMoriya/blob/output/github-contribution-grid-snake.gif)
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
