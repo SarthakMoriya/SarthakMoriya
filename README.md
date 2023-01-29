@@ -38,5 +38,5 @@
 ![snake gif](https://github.com/SarthakMoriya/SarthakMoriya/blob/output/github-contribution-grid-snake.gif)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/SarthakMoriya/count.svg" />
 </p>
