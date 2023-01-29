@@ -34,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakmoriya&show_icons=true&locale=en" alt="sarthakmoriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakmoriya&" alt="sarthakmoriya" /></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SarthakMoriya/count.svg" />
+</p>
