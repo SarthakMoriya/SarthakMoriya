@@ -36,5 +36,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakmoriya&" alt="sarthakmoriya" /></p>
 
 <div> 
-  ![Snake animation](https://github.com/SarthakMoriya/SarthakMoriya/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SarthakMoriya/SarthakMoriya/blob/output/github-contribution-grid-snake.gif)
 </div>
