@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakmoriya&show_icons=true&locale=en" alt="sarthakmoriya" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakMoriya"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakmoriya"/></p>
 
 ![snake gif](https://github.com/SarthakMoriya/SarthakMoriya/blob/output/github-contribution-grid-snake.gif)
 <p align="center"> 
