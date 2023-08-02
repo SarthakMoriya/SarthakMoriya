@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **sarthak8544@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1NCQvLwde-lQlG5STq--d04-kPxorvoxy/view?usp=share_link](https://drive.google.com/file/d/1NCQvLwde-lQlG5STq--d04-kPxorvoxy/view?usp=share_link](https://drive.google.com/file/d/1X4Pk-KI5rmHTuMQB7vzMCk3m4QzU9MVw/view?usp=sharing)
-
+- 📄 Know about my experiences  https://drive.google.com/file/d/1Z5JC5Dxf0NtPUihjKg35qsQCqidNStJ6/view
 - ⚡ Fun fact **You will always find my laptop on**
 
 <h3 align="left">Connect with me:</h3>
